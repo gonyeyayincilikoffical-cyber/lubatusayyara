@@ -1,0 +1,6 @@
+{
+  "name": "Car Parking Multiplayer 3D",
+  "description": "Detaylı 3D şehir, gerçekçi araç fiziği, otopark görevleri, araç modifikasyonu ve multiplayer simülasyonu içeren sürüş oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
